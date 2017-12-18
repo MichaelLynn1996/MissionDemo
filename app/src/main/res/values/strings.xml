@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">星空试用期考核</string>
+    <string name="submit">提交</string>
+    <string name="allowInput">ABCDEFGHIJKLMNOPQRSTUVWSYZqwertyuiopasdfghjklzxcvbnm_1234567890</string>
+    <string name="allowInputNum">1234567890</string>
+    <string name="plsInputNum">请输入一个数字</string>
+    <string name="Website_xk">星空网址:www.xingkong.us</string>
+    <string name="author">星空考核期终极任务 by SeaLynn0</string>
+    <string name="newOne">没有账号？立即注册</string>
+    <string name="username">请输入用户名</string>
+    <string name="password">请输入密码</string>
+    <string name="INPUT_EMPTY">账号和密码都不能为空</string>
+    <string name="NOT_A_USERNAME">账号不存在</string>
+    <string name="WRONG_PASSWORD">密码不正确</string>
+    <string name="INPUT_EMPTY2">请将信息填写完整</string>
+    <string name="NOT_THE_SAME_PASSWORD">请输入两个相同的密码</string>
+    <string name="ALREADY_EXIST">用户已存在</string>
+    <string name="SIGNUP_DONE">注册成功</string>
+    <string name="hint">提示</string>
+    <string name="getpassed">账号存在，密码正确，是否进入系统</string>
+    <string name="cancel">取消</string>
+    <string name="Ok">确定</string>
+    <string name="usersName">用户名：</string>
+    <string name="code">密码：</string>
+    <string name="recode">确认密码：</string>
+    <string name="register">注册</string>
+</resources>
